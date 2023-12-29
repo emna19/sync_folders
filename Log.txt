@@ -1,3 +1,5 @@
 
 Folder folder copied from C:\Users\USER\Documents\files\source\folder to C:\Users\USER\Documents\files\replica\folder
 File file.txt updated in C:\Users\USER\Documents\files\replica
+File file2.txt copied from C:\Users\USER\Documents\files\source\file2.txt to C:\Users\USER\Documents\files\replica\file2.txt
+File file2.txt deleted from C:\Users\USER\Documents\files\replica\file2.txt because not found in C:\Users\USER\Documents\files\source
