@@ -1,0 +1,3 @@
+
+Folder folder copied from C:\Users\USER\Documents\files\source\folder to C:\Users\USER\Documents\files\replica\folder
+File file.txt updated in C:\Users\USER\Documents\files\replica
